@@ -65,6 +65,9 @@ python bulk_ip_checker.py
 
 6. You can also view detailed output in the "Output" section.
 
+![2024-11-29_15-49](https://github.com/user-attachments/assets/f3ea38a4-52b4-4bdf-b0c1-8aa459febf9a)
+
+
 ---
 
 ## 🔑 API Key Setup
